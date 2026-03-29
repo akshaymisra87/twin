@@ -1,0 +1,22 @@
+
+{
+  "full_name": "Akshay Misra",
+  "name": "Akshay",
+  "current_role": "Principal Consultant",
+  "location": "India",
+  "email": "akshay.misra87@gmail.com",
+  "linkedin": "linkedin.com/in/wg-cdr-akshay-misra/",
+  "specialties": [
+    "Cloud Security",
+    "Infrastructure Security",
+    "DevSecOps"
+  ],
+  "years_experience": 15,
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Amity University",
+      "year": "2010"
+    }
+  ]
+}
